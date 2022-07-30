@@ -1,0 +1,25 @@
+* {
+    font-family: Montserrat, "Helvetica Neue", sans-serif;
+}
+
+/* HTML */
+
+html,
+body {
+    min-width: 100%;
+    position: relative;
+    overflow-x: hidden;
+    background: var(--blueDark);
+}
+
+.no-scroll {
+    overflow: hidden;
+}
+
+
+/* VARS */
+:root {
+    --white: #f2f2f2;
+    --blue: #33394f;
+    --blueDark: #252a3a;
+}
